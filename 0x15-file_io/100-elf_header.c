@@ -1,3 +1,7 @@
+/Author Aminat
+// Date 7th Aug 2023
+/* Program File I/O*/
+
 #include <elf.h>
 #include <sys/types.h>
 #include <sys/stat.h>
