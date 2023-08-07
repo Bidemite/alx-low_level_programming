@@ -1,6 +1,7 @@
-/Author Aminat
-// Date 7th Aug 2023
-/* Program File I/O*/
+/*
+ * File: 100-elf_header.c
+ * Auth: Aminat Abdulkareem 
+ */
 
 #include <elf.h>
 #include <sys/types.h>
